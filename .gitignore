@@ -1,0 +1,15 @@
+# Log files
+*.log
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment files (NEVER commit secrets!)
+.env
+credentials.json
+
+# IDE and OS files
+.vscode/
+.idea/
+*.DS_Store
