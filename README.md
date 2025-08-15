@@ -60,3 +60,5 @@ The core logic is based on a "Trap Cycle" hedging strategy:
 ## Disclaimer
 
 This software is for educational and demonstration purposes only. Automated trading involves significant risk. I am not responsible for any financial losses incurred from using this bot.
+
+This strategy was profitable for a period but ultimately failed due to a catastrophic loss during an unexpected market trend. This project taught me a critical lesson in the dangers of Martingale-style risk and the importance of implementing a system-wide stop-loss. My future work focuses on developing strategies with a more robust risk management framework.
